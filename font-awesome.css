@@ -1,7 +1,4 @@
-/*!
- *  Font Awesome 4.3.0 by @davegandy - http://fontawesome.io - @fontawesome
- *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
- */
+
 /* FONT PATH
  * -------------------------- */
  @font-face {
@@ -166,8 +163,7 @@
   .fa-inverse {
     color: #ffffff;
   }
-  /* Font Awesome uses the Unicode Private Use Area (PUA) to ensure screen
-     readers do not read off random characters that represent icons */
+  
   .fa-glass:before {
     content: "\f000";
   }
